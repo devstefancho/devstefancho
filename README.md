@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![language skill](./skill.svg)
+![language skill](https://github.com/devstefancho/devstefancho/raw/master/skill.svg)
 
 <!--
 **devstefancho/devstefancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
