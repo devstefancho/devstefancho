@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Codewars
+![codewars](https://www.codewars.com/users/devstefancho/badges/large)
