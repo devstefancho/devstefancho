@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![language skill](https://github.com/devstefancho/devstefancho/raw/master/skill.svg)
 
 <!--
 **devstefancho/devstefancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +18,7 @@ Here are some ideas to get you started:
 
 ### Codewars
 ![codewars](https://www.codewars.com/users/devstefancho/badges/large)
+
+
+### Stackoverflow
+<a href="https://stackoverflow.com/users/11650728/stefancho"><img src="https://stackoverflow.com/users/flair/11650728.png" width="208" height="58" alt="profile for stefancho at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for stefancho at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
