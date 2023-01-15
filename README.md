@@ -1,24 +1,14 @@
-### Hi there 👋
+### Hi, I'm Stefan Cho
+I'm Korean 🇰🇷 and working on Web Frontend position.
+Love to use vim (currently setting up [neovim with lua](https://github.com/devstefancho/init.lua))
 
+[![Stefancho's GitHub stats](https://github-readme-stats.vercel.app/api?username=devstefancho)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**devstefancho/devstefancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=devstefancho&style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Codewars
 ![codewars](https://www.codewars.com/users/devstefancho/badges/large)
 
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11650728?theme=dark&website=true&location=true" alt="user:11650728's SO profile">
+</a>
 
-### Stackoverflow
-<a href="https://stackoverflow.com/users/11650728/stefancho"><img src="https://stackoverflow.com/users/flair/11650728.png" width="208" height="58" alt="profile for stefancho at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for stefancho at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
